@@ -1,5 +1,3 @@
-# api-automation-framework
-Professional REST API automation framework using Python, Pytest and Requests library with Page Object Model pattern.
 # 🔌 API Automation Framework 
 Professional REST API testing framework built with Python, Pytest and Requests library. 
 ## 🛠️ Tech Stack 
